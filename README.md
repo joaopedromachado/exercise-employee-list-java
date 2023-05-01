@@ -1,6 +1,6 @@
 # exercise-employee-list-java
 
-#Enunciado do exercício
+# Enunciado do exercício
 Fazer um programa para ler um número inteiro N e depois os 
 dados (id, nome e salario) de N funcionários. Não deve haver 
 repetição de id. 

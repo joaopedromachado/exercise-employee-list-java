@@ -15,7 +15,8 @@ Lembre-se de aplicar a técnica de encapsulamento para não
 permitir que o salário possa ser mudado livremente. Um 
 salário só pode ser aumentado com base em uma operação 
 de aumento por porcentagem dada.
-EXEMPLO 1:
+
+## EXEMPLO 1:
 
 How many employees will be registered? 3
 
@@ -41,7 +42,8 @@ List of employees:
 333, Maria Brown, 4000.00
 536, Alex Grey, 3300.00
 772, Bob Green, 5000.00
-EXEMPLO 2:
+
+## EXEMPLO 2:
 
 How many employees will be registered? 2
 
